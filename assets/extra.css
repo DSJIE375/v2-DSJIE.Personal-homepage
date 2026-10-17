@@ -1,0 +1,4 @@
+/* PHP 版补充样式 */
+a.wcard{color:inherit;text-decoration:none;}
+.gimg img{width:100%;height:100%;object-fit:cover;display:block;}
+.gcell{cursor:zoom-in;}

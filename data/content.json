@@ -1,0 +1,333 @@
+{
+    "site": {
+        "name": "DSJIE",
+        "avatar": "dsjie",
+        "slogan": "科技不是高高在上，而是服务于人民",
+        "contact_text": "联系 DSJIE",
+        "contact_url": "",
+        "footer": "© 2026 DSJIE. 保留所有权利",
+        "seo_title": "DSJIE 个人主页",
+        "seo_desc": "DSJIE 的个人主页：来自广西北流的学生兼程序员，分享作品、随笔、图库与资源下载，相信科技不是高高在上，而是服务于人民。",
+        "seo_keywords": "DSJIE,个人主页,学生程序员,PHP,Laravel,作品展示,技术随笔",
+        "socials": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/DSJIE375"
+            },
+            {
+                "label": "邮箱",
+                "url": "dsjie375@qq.com"
+            },
+            {
+                "label": "博客",
+                "url": ""
+            },
+            {
+                "label": "RSS",
+                "url": ""
+            }
+        ]
+    },
+    "about": {
+        "intro": "你好，我是 <strong>DSJIE</strong>，一名来自广西 <strong>北流</strong> 的学生兼程序员。热爱用代码解决问题，相信科技不是高高在上，而是服务于人民。持续学习、持续输出，记录属于自己的一条开发之路。",
+        "skills": "PHP,Laravel,JavaScript,HTML/CSS,MySQL,Linux,Git",
+        "radar": "PHP:85\nLaravel:75\nJS:70\nHTML/CSS:80\nMySQL:70\nLinux:65\nGit:70"
+    },
+    "works": [
+        {
+            "id": "w1",
+            "title": "作品占位 A",
+            "desc": "这是一个面向项目的作品占位卡片，展示项目预览与关键能力。",
+            "tech": "PHP · Laravel",
+            "link": ""
+        },
+        {
+            "id": "w2",
+            "title": "作品占位 B",
+            "desc": "前端交互与数据可视化示例，体现对界面细节的把控。",
+            "tech": "JavaScript · ECharts",
+            "link": ""
+        },
+        {
+            "id": "w3",
+            "title": "作品占位 C",
+            "desc": "站点与工具类项目，关注工程化与部署实践。",
+            "tech": "Linux · Git",
+            "link": ""
+        },
+        {
+            "id": "w4",
+            "title": "个人博客系统",
+            "desc": "自研轻量博客，支持文章、图库与资源下载分发。",
+            "tech": "PHP · MySQL",
+            "link": ""
+        },
+        {
+            "id": "w5",
+            "title": "待办清单小应用",
+            "desc": "本地优先的极简 Todo，支持离线与数据导入导出。",
+            "tech": "JavaScript · LocalStorage",
+            "link": ""
+        },
+        {
+            "id": "w6",
+            "title": "一键部署脚本",
+            "desc": "把常用环境搭建流程压缩成一条命令，部署更省心。",
+            "tech": "Linux · Shell",
+            "link": ""
+        }
+    ],
+    "essays": [
+        {
+            "id": "e1",
+            "title": "写给初学编程的自己",
+            "date": "2026.09.12",
+            "excerpt": "从零开始的路径、踩过的坑与坚持的理由，记录真实的成长过程。",
+            "content": "从第一次写下 hello world 到独立完成项目，中间隔着无数个深夜的报错与重试。写给刚开始学编程的自己：别怕犯错，每一个坑都是必经之路。"
+        },
+        {
+            "id": "e2",
+            "title": "我理解的「科技服务于人」",
+            "date": "2026.08.03",
+            "excerpt": "技术不应高高在上，它终归要落回日常、落到普通人的需要里。",
+            "content": "技术的价值不在于炫技，而在于解决真实的问题。一个好工具应该让人感觉不到工具的存在，这才是我理解的科技服务于人。"
+        },
+        {
+            "id": "e3",
+            "title": "在广西北流做一名学生开发者",
+            "date": "2026.06.21",
+            "excerpt": "小地方的开发者也有大梦想，聊聊环境、选择与可能性。",
+            "content": "身处小城，同样可以接触最前沿的技术。网络抹平了地理差距，重要的是持续学习的意愿和动手实践的勇气。"
+        },
+        {
+            "id": "e4",
+            "title": "我的第一个个人网站上线记",
+            "date": "2026.05.08",
+            "excerpt": "从域名、部署到调通每一个报错，完整记录上线那一刻。",
+            "content": "买域名、配环境、传代码、改报错，折腾了整整两天。当网站终于能被访问的那一刻，所有的等待都值了。"
+        },
+        {
+            "id": "e5",
+            "title": "为什么我坚持黑白极简设计",
+            "date": "2026.04.17",
+            "excerpt": "去掉一切多余色彩之后，内容本身才真正被看见。",
+            "content": "极简不是简陋，而是把注意力还给内容。黑与白之间，信息的层级反而更加清晰。"
+        },
+        {
+            "id": "e6",
+            "title": "学生时代的开源初体验",
+            "date": "2026.03.02",
+            "excerpt": "第一次给别人的项目提 PR，紧张又兴奋的全过程。",
+            "content": "从 fork 到提 PR，第一次参与别人的项目既紧张又兴奋。代码被合并的那一刻，我真正感受到了开源的魅力。"
+        }
+    ],
+    "gallery": [
+        {
+            "id": "g1",
+            "caption": "广西北流的傍晚",
+            "date": "2026.10",
+            "img": ""
+        },
+        {
+            "id": "g2",
+            "caption": "手写代码的日常",
+            "date": "2026.09",
+            "img": ""
+        },
+        {
+            "id": "g3",
+            "caption": "一场校园分享",
+            "date": "2026.08",
+            "img": ""
+        },
+        {
+            "id": "g4",
+            "caption": "桌面一角",
+            "date": "2026.07",
+            "img": ""
+        },
+        {
+            "id": "g5",
+            "caption": "路上的风景",
+            "date": "2026.06",
+            "img": ""
+        },
+        {
+            "id": "g6",
+            "caption": "深夜的学习桌",
+            "date": "2026.05",
+            "img": ""
+        },
+        {
+            "id": "g7",
+            "caption": "周末的代码马拉松",
+            "date": "2026.04",
+            "img": ""
+        },
+        {
+            "id": "g8",
+            "caption": "第一次技术分享",
+            "date": "2026.03",
+            "img": ""
+        },
+        {
+            "id": "g9",
+            "caption": "夜跑的校园",
+            "date": "2026.02",
+            "img": ""
+        },
+        {
+            "id": "g10",
+            "caption": "新年的第一行代码",
+            "date": "2026.01",
+            "img": ""
+        }
+    ],
+    "downloads": [
+        {
+            "id": "d1",
+            "title": "resume-dsjie.pdf",
+            "note": "128 KB · 简历",
+            "file": ""
+        },
+        {
+            "id": "d2",
+            "title": "portfolio-2026.pdf",
+            "note": "2.4 MB · 作品集",
+            "file": ""
+        },
+        {
+            "id": "d3",
+            "title": "dsjie-logo.svg",
+            "note": "12 KB · Logo",
+            "file": "files/dsjie-logo.svg"
+        },
+        {
+            "id": "d4",
+            "title": "about-me.txt",
+            "note": "4 KB · 简介",
+            "file": "files/about-me.txt"
+        },
+        {
+            "id": "d5",
+            "title": "icons-pack.zip",
+            "note": "860 KB · 图标素材",
+            "file": ""
+        },
+        {
+            "id": "d6",
+            "title": "php-deploy-guide.pdf",
+            "note": "1.1 MB · 部署指南",
+            "file": ""
+        },
+        {
+            "id": "d7",
+            "title": "notes-template.md",
+            "note": "6 KB · 笔记模板",
+            "file": "files/notes-template.md"
+        }
+    ],
+    "messages": [
+        {
+            "id": "m1",
+            "qq": "10001",
+            "email": "xiaoming@example.com",
+            "text": "主页做得真简洁，黑白配色太好看了，收藏了！",
+            "time": "2026-10-15 20:12",
+            "replies": [
+                {
+                    "id": "m1r1",
+                    "qq": "站长 DSJIE",
+                    "email": "dsjie@example.com",
+                    "text": "感谢支持！这版改了挺久，欢迎常来。",
+                    "time": "2026-10-15 21:03"
+                }
+            ]
+        },
+        {
+            "id": "m2",
+            "qq": "20002",
+            "email": "lisi@example.com",
+            "text": "请问作品里的博客是用 PHP 写的吗？求技术栈分享。",
+            "time": "2026-10-16 09:40",
+            "replies": []
+        },
+        {
+            "id": "m3",
+            "qq": "30003",
+            "email": "wangwu@example.com",
+            "text": "从随笔过来的，写得挺实在，继续加油。",
+            "time": "2026-10-16 10:05",
+            "replies": []
+        }
+    ],
+    "updates": [
+        {
+            "id": "u1",
+            "date": "2026-10-16",
+            "title": "个人主页完成二级留言板",
+            "text": "黑白极简风继续打磨，进度指示器与图库灯箱也上线了。"
+        },
+        {
+            "id": "u2",
+            "date": "2026-10-08",
+            "title": "博客系统上线评论模块",
+            "text": "基于 PHP + MySQL 的多级评论，支持邮件通知。"
+        },
+        {
+            "id": "u3",
+            "date": "2026-09-28",
+            "title": "开源作品《一键部署脚本》",
+            "text": "把常用环境搭建流程压缩成一条命令，部署更省心。"
+        },
+        {
+            "id": "u4",
+            "date": "2026-09-15",
+            "title": "完成第一个 Laravel CRUD 项目",
+            "text": "从路由到模型再到分页，完整走通一遍。"
+        },
+        {
+            "id": "u5",
+            "date": "2026-09-01",
+            "title": "有了建个人主页的想法",
+            "text": "开学季，先把想法记下来。"
+        }
+    ],
+    "friends": [
+        {
+            "id": "f1",
+            "name": "小明的博客",
+            "url": "#",
+            "desc": "前端开发技术笔记",
+            "avatar": "明"
+        },
+        {
+            "id": "f2",
+            "name": "阿强 Lab",
+            "url": "#",
+            "desc": "网络与安全实验记录",
+            "avatar": "强"
+        },
+        {
+            "id": "f3",
+            "name": "设计杂货铺",
+            "url": "#",
+            "desc": "UI / UX 灵感收集",
+            "avatar": "设"
+        },
+        {
+            "id": "f4",
+            "name": "Linux 手记",
+            "url": "#",
+            "desc": "服务器折腾日常",
+            "avatar": "L"
+        },
+        {
+            "id": "f5",
+            "name": "代码自习室",
+            "url": "#",
+            "desc": "一起刷题打卡",
+            "avatar": "习"
+        }
+    ]
+}
