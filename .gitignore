@@ -1,0 +1,14 @@
+# 运行时与敏感数据，不进仓库
+data/identity.php
+data/admin.json
+data/content.json
+data/visits.php
+data/events_*.php
+data/online.php
+*.log
+
+# 系统杂物
+.DS_Store
+Thumbs.db
+data/counter.php
+data/counter_seeded.php

@@ -7,6 +7,7 @@
 // 数据文件（网站全部内容都在这里，备份站点 = 备份这个文件）
 define('DATA_FILE',   __DIR__ . '/data/content.json');
 define('ADMIN_FILE',  __DIR__ . '/data/admin.json');
+define('IDENTITY_FILE', __DIR__ . '/data/identity.php');
 
 // 上传目录
 define('UPLOAD_DIR',  __DIR__ . '/uploads');   // 图库图片
